@@ -22,6 +22,7 @@ Versões para baixar o zip:
 
 - [Projeto inicial até a tela de Splash](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.1)
 - [Home com AppBar](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.2)
+- [1a aula pronta](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.3)
 
 
 ## Getting Started

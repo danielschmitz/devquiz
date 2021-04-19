@@ -1,6 +1,19 @@
 # devquiz
 
-A new Flutter project.
+Projeto devquiz do NLW5 sobre Flutter
+
+# Links
+
+## Material
+
+- [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
+- [Projeto no figma](https://www.figma.com/file/oee9kcqSdTnFoA6Q89qxGg/DevQuiz-(Copy)?node-id=0%3A1)
+
+## Versões do projeto
+
+Versões para baixar o zip:
+
+- [Projeto inicial até a tela de Splash](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.1)
 
 ## Getting Started
 

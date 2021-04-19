@@ -1,3 +1,4 @@
+import 'package:devquiz/core/app_config.dart';
 import 'package:devquiz/core/core.dart';
 import 'package:devquiz/home/widgets/scorecard/scorecard_widget.dart';
 import 'package:flutter/material.dart';
@@ -36,7 +37,7 @@ class AppBarWidget extends PreferredSize {
                               borderRadius: BorderRadius.circular(10),
                               image: DecorationImage(
                                   image: NetworkImage(
-                                      "https://avatars.githubusercontent.com/u/1509692?v=4"))),
+                                      AppConfig.GithubPhotoUrl))),
                         )
                       ],
                     ),

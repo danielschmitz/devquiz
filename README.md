@@ -15,6 +15,7 @@ Projeto devquiz do NLW5 sobre Flutter
 - Dart
 - Dracula Oficial (tema, nao é obrigatorio esse, mas fica estiloso)
 - Flutter
+- Error lens
 
 ## Versões do projeto
 

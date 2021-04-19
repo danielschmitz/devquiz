@@ -26,7 +26,7 @@ class ScoreCardWidget extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text("Vamos começar", style: AppTextStyles.heading,),
+                    Text("Vamos começar!", style: AppTextStyles.heading,),
                     Text("Complete os desafios e avançe em conhecimento", style: AppTextStyles.body)
                   ],
                 ),

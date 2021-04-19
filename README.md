@@ -21,6 +21,8 @@ Projeto devquiz do NLW5 sobre Flutter
 Versões para baixar o zip:
 
 - [Projeto inicial até a tela de Splash](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.1)
+- [Home com AppBar](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.2)
+
 
 ## Getting Started
 

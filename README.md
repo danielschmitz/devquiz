@@ -25,6 +25,16 @@ Versões para baixar o zip:
 - [Home com AppBar](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.2)
 - [1a aula pronta](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.3)
 
+## Dica especial
+
+No VScode, você pode ter essa visualização dos childs dos widgets:
+
+![image](https://user-images.githubusercontent.com/1509692/115384126-0cbc1900-a1ad-11eb-8c36-03eb902422cf.png)
+
+Para isso, vá até os settings do vscode e marque a opção `previewFlutterUiGuides`:
+
+![image](https://user-images.githubusercontent.com/1509692/115384248-35dca980-a1ad-11eb-9384-d2cc1d445ff1.png)
+
 
 ## Getting Started
 

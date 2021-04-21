@@ -50,3 +50,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Vídeos
+
+<details><summary>Download</summary>
+
+- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL) [google drive](https://drive.google.com/file/d/198XiuDDdDA3NM6AvRSG_a8WRrF2erBvs/view?usp=sharing)
+
+- Aula 2: [one drive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) [google drive](https://drive.google.com/file/d/15nZV_lzkDl8eOebpoBKIYQowiBSVfPV2/view?usp=sharing)
+
+</details>

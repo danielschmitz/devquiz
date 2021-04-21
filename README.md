@@ -32,7 +32,7 @@ Versões para baixar o zip:
 
 No VScode, você pode ter essa visualização dos childs dos widgets:
 
-![image](https://user-images.githubusercontent.com/1509692/115384126-0cbc1900-a1ad-11eb-8c36-03eb902422cf.png)
+![image](https://user-images.githubusercontent.com/1509692/115576113-91846100-a299-11eb-85bc-a40283555dc9.png)
 
 Para isso, vá até os settings do vscode e marque a opção `previewFlutterUiGuides`:
 

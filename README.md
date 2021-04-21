@@ -17,6 +17,7 @@ Projeto devquiz do NLW5 sobre Flutter
 - Dracula Oficial (tema, nao é obrigatorio esse, mas fica estiloso)
 - Flutter
 - Error lens
+- Material Icon Theme
 
 ## Versões do projeto
 

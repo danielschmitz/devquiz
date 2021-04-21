@@ -23,11 +23,11 @@ Projeto devquiz do NLW5 sobre Flutter
 
 Versões para baixar o zip:
 
-- [Projeto inicial até a tela de Splash](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.1)
-- [Home com AppBar](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.2)
-- [1a aula pronta](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.3)
-- [Botões Fácil, médio, dificil, perito](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.4) - A partir dessa tag, continue na aula 2 aos 36 minutos
-- [Quiz card com o GridView](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.5) - A partir dessa tag, continue na aula 2 a partir de 01:01:20
+- v0.0.1 [Projeto inicial até a tela de Splash](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.1)
+- v0.0.2 [Home com AppBar](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.2)
+- v0.0.3 [1a aula pronta](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.3)
+- v0.0.4 [Botões Fácil, médio, dificil, perito](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.4) - A partir dessa tag, continue na aula 2 aos 36 minutos
+- v0.0.5 [Quiz card com o GridView](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.5) - A partir dessa tag, continue na aula 2 a partir de 01:01:20
 
 ## Dica especial
 

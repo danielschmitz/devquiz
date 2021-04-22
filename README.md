@@ -6,9 +6,10 @@ Projeto devquiz do NLW5 sobre Flutter
 
 ## Material
 
-- [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
 - [Projeto no figma](https://www.figma.com/file/oee9kcqSdTnFoA6Q89qxGg/DevQuiz-(Copy)?node-id=0%3A1)
+- [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
 - [Material da aula 2](https://www.notion.so/Roteiro-da-aula-331347b956d14167a92aeef7f85d3a23)
+- [Material da aula 3](https://www.notion.so/Roteiro-da-aula-4ff471e6c6274d82aaaf293734b5761f)
 
 ## Plugins do Vscode
 
@@ -58,8 +59,20 @@ samples, guidance on mobile development, and a full API reference.
 
 <details><summary>Download</summary>
 
-- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL) [google drive](https://drive.google.com/file/d/198XiuDDdDA3NM6AvRSG_a8WRrF2erBvs/view?usp=sharing)
+- Aula Bônus (para iniciantes no flutter): [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf) | [gdrive](https://drive.google.com/file/d/1CVX9GjTwZHI1HHRzXVdVLPAkUSmOZU1p/view?usp=sharing)
 
-- Aula 2: [one drive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) [google drive](https://drive.google.com/file/d/15nZV_lzkDl8eOebpoBKIYQowiBSVfPV2/view?usp=sharing)
+- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL)  | [gdrive](https://drive.google.com/file/d/198XiuDDdDA3NM6AvRSG_a8WRrF2erBvs/view?usp=sharing)
+
+- Aula 2: [one drive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) | [gdrive](https://drive.google.com/file/d/15nZV_lzkDl8eOebpoBKIYQowiBSVfPV2/view?usp=sharing)
+
+- Aula 3: [ondedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q) | [gdrive](https://drive.google.com/file/d/1it4UDarcILGkSwd6_bjYI_QusKjbtSiB/view?usp=sharing)
+
+
+## No youtube:
+
+- Aula Bonus - https://youtu.be/_OeByq1RXu0
+- Aula 1 - https://youtu.be/GSYaYunF0ws
+- Aula 2 - https://youtu.be/3ImqUVDUBdE
+- Aula 3 - https://youtu.be/pbZ5TrDSnt8
 
 </details>

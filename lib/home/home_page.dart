@@ -20,9 +20,7 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    controller.getUserAndQuizzes();
-    //controller.getUser();
-    //controller.getQuizzes();
+    controller.fetchData();
     controller.stateNotifier.addListener(() {
       setState(() {});
     });
@@ -96,3 +94,11 @@ class _HomePageState extends State<HomePage> {
       controller.user != null &&
       controller.quizzes != null;
 }
+
+// if ((controller.state == HomeState.success) &&
+//     (controller.user == null || controller.quizzes == null)) {
+//   return Scaffold(
+//       body: Center(
+//     child: Text("chegou no success mas User ou Quizz esta null"),
+//   ));
+// }

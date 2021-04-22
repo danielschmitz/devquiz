@@ -13,13 +13,30 @@ class QuizWidget extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
-          Text(this.title, style: AppTextStyles.heading15 ,),
-          SizedBox(height: 15,),
-          AnwserWidget(title: "Kit de desenvolvimento de interface de usuário", isSelected: true, isRight: true,),
-          SizedBox(height: 15,),
-          AnwserWidget(title: "Acho que é uma marca de café do Himalaia",),
-          SizedBox(height: 15,),
-          AnwserWidget(title: "Possibilita a criação de desktops que são muito incríveis",),
+          Text(
+            this.title,
+            style: AppTextStyles.heading15,
+          ),
+          SizedBox(
+            height: 15,
+          ),
+          AnwserWidget(
+            title: "Kit de desenvolvimento de interface de usuário",
+            isSelected: true,
+            isRight: true,
+          ),
+          SizedBox(
+            height: 15,
+          ),
+          AnwserWidget(
+            title: "Acho que é uma marca de café do Himalaia",
+          ),
+          SizedBox(
+            height: 15,
+          ),
+          AnwserWidget(
+            title: "Possibilita a criação de desktops que são muito incríveis",
+          ),
         ],
       ),
     );

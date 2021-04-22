@@ -32,28 +32,46 @@ class AnwserWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-          color: isSelected ? _selectedBorderCardRight : AppColors.white,
-          borderRadius: BorderRadius.circular(10),
-          border: Border.fromBorderSide(BorderSide(color: isSelected ? _selectedBorderCardRight : AppColors.border))),
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 25),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Expanded(child: Text(this.title, style: isSelected ? _selectedTextStyleRight : AppTextStyles.body)),
-            Container(
-              decoration: BoxDecoration(
-                  color: isSelected ? _selectedColorRight : AppColors.lightGreen,
-                  borderRadius: BorderRadius.circular(20),
-                  border: Border.fromBorderSide(
-                      BorderSide(color: isSelected ? _selectedBorderRight : AppColors.border))),
-              width: 30,
-              height: 30,
-              child: isSelected ? Icon(Icons.check, size: 16,color: Colors.white,) : null,
-            )
-          ],
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 10),
+      child: Container(
+        decoration: BoxDecoration(
+            color: isSelected ? _selectedBorderCardRight : AppColors.white,
+            borderRadius: BorderRadius.circular(10),
+            border: Border.fromBorderSide(BorderSide(
+                color:
+                    isSelected ? _selectedBorderCardRight : AppColors.border))),
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 25),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Expanded(
+                  child: Text(this.title,
+                      style: isSelected
+                          ? _selectedTextStyleRight
+                          : AppTextStyles.body)),
+              Container(
+                decoration: BoxDecoration(
+                    color:
+                        isSelected ? _selectedColorRight : AppColors.lightGreen,
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.fromBorderSide(BorderSide(
+                        color: isSelected
+                            ? _selectedBorderRight
+                            : AppColors.border))),
+                width: 30,
+                height: 30,
+                child: isSelected
+                    ? Icon(
+                        Icons.check,
+                        size: 16,
+                        color: Colors.white,
+                      )
+                    : null,
+              )
+            ],
+          ),
         ),
       ),
     );

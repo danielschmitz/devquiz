@@ -34,6 +34,7 @@ Versões para baixar o zip:
 - v0.0.7 [Aula 3, criando o model e controller da Home](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.7) - Continue na aula 3 a partir de 1:03:30
 - v0.0.8 [Final da aula 3](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.8) - Troquei os "Awnser" para "Answer". No video ta errado....
 - v0.0.9 [Botoes Voltar, Confirmar do Challenge Page](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.9) - Continue na aula 4 a partir de 00:34:00
+- v0.0.10 [Aula 4 até navegação](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.10) - continuar de 00:49:50 da aula 4
 
 ## Dica
 

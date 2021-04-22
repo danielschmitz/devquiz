@@ -32,10 +32,10 @@ class _HomePageState extends State<HomePage> {
               child: Padding(
                 padding: const EdgeInsets.symmetric(vertical: 20),
                 child: GridView.count(
-                  crossAxisCount: 2,
+                  crossAxisCount: MediaQuery.of(context).size.width < 760 ? 2 : MediaQuery.of(context).size.width < 900 ? 3 : MediaQuery.of(context).size.width < 1200 ? 4 : 5,
                   crossAxisSpacing: 10,
                   mainAxisSpacing: 10,
-                  childAspectRatio: 1.5,
+                  childAspectRatio: 1.3,
                   children: [
                     QuizCardWidget(),
                     QuizCardWidget(),

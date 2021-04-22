@@ -8,7 +8,7 @@ Projeto devquiz do NLW5 sobre Flutter
 
 - [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
 - [Projeto no figma](https://www.figma.com/file/oee9kcqSdTnFoA6Q89qxGg/DevQuiz-(Copy)?node-id=0%3A1)
-- [Material Aula 2](https://www.notion.so/Roteiro-da-aula-331347b956d14167a92aeef7f85d3a23)
+- [Material da aula 2](https://www.notion.so/Roteiro-da-aula-331347b956d14167a92aeef7f85d3a23)
 
 ## Plugins do Vscode
 

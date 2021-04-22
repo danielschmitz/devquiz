@@ -28,6 +28,7 @@ Versões para baixar o zip:
 - v0.0.3 [1a aula pronta](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.3)
 - v0.0.4 [Botões Fácil, médio, dificil, perito](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.4) - A partir dessa tag, continue na aula 2 aos 36 minutos
 - v0.0.5 [Quiz card com o GridView](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.5) - A partir dessa tag, continue na aula 2 a partir de 01:01:20
+- v0.0.6 [Finalização da aula 2](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.6)
 
 ## Dica especial
 

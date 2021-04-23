@@ -1,3 +1,4 @@
+import 'package:devquiz/challenge/challenge_controller.dart';
 import 'package:devquiz/shared/models/question_model.dart';
 import 'package:flutter/material.dart';
 
@@ -18,6 +19,21 @@ class ChallengePage extends StatefulWidget {
 }
 
 class _ChallengePageState extends State<ChallengePage> {
+  final controller = ChallengeController();
+  final pageController = PageController();
+
+  @override
+  void initState() {
+    controller.currentPageNotifier.addListener(() {
+      setState(() {});
+    });
+    pageController.addListener(() {
+      controller.currentPage = pageController.page!.toInt() + 1;
+      print(pageController.page!);
+    });
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -35,12 +51,22 @@ class _ChallengePageState extends State<ChallengePage> {
                   },
                   icon: Icon(Icons.close),
                 ),
-                QuestionIndicatorWidget(),
+                ValueListenableBuilder(
+                  valueListenable: controller.currentPageNotifier,
+                  builder: (context, value, child) {
+                    return QuestionIndicatorWidget(
+                      currentPage: controller.currentPage,
+                      length: widget.questions.length,
+                    );
+                  },
+                )
               ],
             )),
       ),
-      body: QuizWidget(
-        question: widget.questions[0],
+      body: PageView(
+        controller: pageController,
+        physics: NeverScrollableScrollPhysics(),
+        children: widget.questions.map((e) => QuizWidget(question: e)).toList(),
       ),
       bottomNavigationBar: SafeArea(
         child: Padding(
@@ -50,8 +76,12 @@ class _ChallengePageState extends State<ChallengePage> {
             children: [
               Expanded(
                   child: NextButtonWidget.white(
-                label: "Voltar",
-                onTap: () {},
+                label: "Pular",
+                onTap: () {
+                  pageController.nextPage(
+                      duration: Duration(milliseconds: 300),
+                      curve: Curves.linear);
+                },
               )),
               SizedBox(
                 width: 10,

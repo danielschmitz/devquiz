@@ -10,6 +10,8 @@ Projeto devquiz do NLW5 sobre Flutter
 - [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
 - [Material da aula 2](https://www.notion.so/Roteiro-da-aula-331347b956d14167a92aeef7f85d3a23)
 - [Material da aula 3](https://www.notion.so/Roteiro-da-aula-4ff471e6c6274d82aaaf293734b5761f)
+- [Material da aula 4](https://www.notion.so/Roteiro-da-aula-5fbd5a7a2617430097c470ccc499ecce)
+- [Material da aula 5](https://www.notion.so/Roteiro-da-aula-a43961e5cdfd47128c97dfc57d217c9f)
 
 ## Plugins do Vscode
 
@@ -66,16 +68,17 @@ samples, guidance on mobile development, and a full API reference.
 
 <details><summary>Download</summary>
 
-- Aula Bônus (para iniciantes no flutter): [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf) | [gdrive](https://drive.google.com/file/d/1CVX9GjTwZHI1HHRzXVdVLPAkUSmOZU1p/view?usp=sharing)
+- Aula Bônus (para iniciantes no flutter): [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf)
 
-- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL)  | [gdrive](https://drive.google.com/file/d/198XiuDDdDA3NM6AvRSG_a8WRrF2erBvs/view?usp=sharing)
+- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL)
 
-- Aula 2: [one drive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) | [gdrive](https://drive.google.com/file/d/15nZV_lzkDl8eOebpoBKIYQowiBSVfPV2/view?usp=sharing)
+- Aula 2: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) 
 
-- Aula 3: [ondedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q) | [gdrive](https://drive.google.com/file/d/1it4UDarcILGkSwd6_bjYI_QusKjbtSiB/view?usp=sharing)
+- Aula 3: [ondedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q) 
 
-- Aula 4: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgwT-qzRHIVyNeKcw?e=Vvbsmy) | [gdrive](https://drive.google.com/file/d/19WoWGU3HvpLSvWwx2bbYXOxE7JqntWBT/view?usp=sharing)
+- Aula 4: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgwT-qzRHIVyNeKcw?e=Vvbsmy)
 
+- Aula 5: [onedrive](https://1drv.ms/v/s!Apb0CbMZvL3sgfgxtiSdBOQkLEEzzA?e=zULeaf)
 
 ## No youtube:
 

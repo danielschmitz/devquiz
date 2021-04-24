@@ -5,6 +5,8 @@ class ChallengeController {
 
   int get currentPage => currentPageNotifier.value;
   set currentPage(int value) => currentPageNotifier.value = value;
+
+  int correctChoices = 0;
 }
 
 // parei em 57:50

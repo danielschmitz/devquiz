@@ -7,7 +7,7 @@ import 'package:devquiz/shared/models/question_model.dart';
 
 class QuizWidget extends StatefulWidget {
   final QuestionModel question;
-  final VoidCallback onChange;
+  final ValueChanged<bool> onChange;
   const QuizWidget({
     Key? key,
     required this.question,
@@ -40,11 +40,12 @@ class _QuizWidgetState extends State<QuizWidget> {
               title: e.title,
               isSelected: indexSelected == i,
               isRight: e.isRight,
-              onTap: () {
+              answer: e,
+              onTap: (isRight) {
                 indexSelected = i;
                 setState(() {});
                 Future.delayed(Duration(seconds: 1))
-                    .then((value) => widget.onChange());
+                    .then((_) => widget.onChange(isRight));
               },
             ),
           )

@@ -1,16 +1,19 @@
 import 'package:devquiz/core/app_colors.dart';
 import 'package:devquiz/core/app_text_styles.dart';
+import 'package:devquiz/shared/models/answser_model.dart';
 import 'package:flutter/material.dart';
 
 class AnwserWidget extends StatelessWidget {
+  final AnswerModel answer;
   final String title;
   final bool isRight;
   final bool isSelected;
-  final VoidCallback onTap;
+  final ValueChanged<bool> onTap;
   final bool disabled;
   const AnwserWidget(
       {Key? key,
       required this.title,
+      required this.answer,
       this.isRight = false,
       this.disabled = false,
       required this.onTap,
@@ -41,7 +44,9 @@ class AnwserWidget extends StatelessWidget {
       child: IgnorePointer(
         ignoring: disabled,
         child: GestureDetector(
-          onTap: onTap,
+          onTap: () {
+            onTap(answer.isRight);
+          },
           child: Container(
             decoration: BoxDecoration(
                 color: isSelected ? _selectedBorderCardRight : AppColors.white,

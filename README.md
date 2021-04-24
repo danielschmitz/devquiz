@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/danielschmitz/devquiz">
-    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F07591928-caf4-4b3e-9cd6-5c01e026c5b9%2Fnlw5.png?table=block&id=a43961e5-cdfd-4712-8c97-dfc57d217c9f&width=3840&userId=19fd7eec-16c2-4213-86cc-e2e1b925cce4&cache=v2"/>
+    <img src="https://user-images.githubusercontent.com/1509692/115949955-c61d3600-a4ae-11eb-8025-552e13afbcca.png"/>
   </a>
 </p>
 
@@ -16,9 +16,7 @@
  </p>
 
 
-# Links
-
-## Material
+## ✅ Material
 
 - [Projeto no figma](https://www.figma.com/file/oee9kcqSdTnFoA6Q89qxGg/DevQuiz-(Copy)?node-id=0%3A1)
 - [Material da aula 1](https://www.notion.so/Material-para-a-aula-01-92b506e9339f4f8b9b50612c7a414289)
@@ -27,7 +25,7 @@
 - [Material da aula 4](https://www.notion.so/Roteiro-da-aula-5fbd5a7a2617430097c470ccc499ecce)
 - [Material da aula 5](https://www.notion.so/Roteiro-da-aula-a43961e5cdfd47128c97dfc57d217c9f)
 
-## Plugins do Vscode
+## ✅ Plugins do Vscode
 
 - Awesome Flutter Snippets
 - Dart
@@ -37,7 +35,7 @@
 - Material Icon Theme
 - Dart Data Class Generator
 
-## Versões do projeto
+## ✅ Versões do projeto
 
 Versões para baixar o zip:
 
@@ -54,7 +52,7 @@ Versões para baixar o zip:
 - v0.0.11 [Aula 4 até botão pular](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.11) - continuar de 01:07:20 da aula 4
 - v0.0.12 [Finalização da aula 4](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.12) - 
 
-## Dica
+## ✅ Dica
 
 No VScode, você pode ter essa visualização dos childs dos widgets:
 
@@ -64,21 +62,34 @@ Para isso, vá até os settings do vscode e marque a opção `previewFlutterUiGu
 
 ![image](https://user-images.githubusercontent.com/1509692/115384248-35dca980-a1ad-11eb-9384-d2cc1d445ff1.png)
 
+## ✅  Instalação
 
-## Getting Started
+Necessário:
 
-This project is a starting point for a Flutter application.
+- [Flutter](flutter.dev) 2.0.5 ou superior
+- Visual Studio Code ou Android Studio
+- Git
+- ❌ Não é necessário instalar Android SDK nem AVD. A partir do Flutter 2.0.5 existe a versão "Chrome" ou "Edge"
 
-A few resources to get you started if this is your first Flutter project:
+Instalação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+$ git clone https://github.com/danielschmitz/devquiz.git
+cd devquiz
+code . 
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Após abrir o Visual Studio Code, aperte F5 para compilar e executar o projeto.
 
-# Vídeos
+Enjoy!
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
+## 🏴‍☠️ Vídeos
+
 
 <details><summary>Download</summary>
 

@@ -24,4 +24,16 @@ class AnswerModel {
 
   factory AnswerModel.fromJson(String source) =>
       AnswerModel.fromMap(json.decode(source));
+
+  @override
+  bool operator ==(Object other) {
+    if (identical(this, other)) return true;
+
+    return other is AnswerModel &&
+        other.title == title &&
+        other.isRight == isRight;
+  }
+
+  @override
+  int get hashCode => title.hashCode ^ isRight.hashCode;
 }

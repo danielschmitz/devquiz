@@ -35,6 +35,7 @@ class _QuizWidgetState extends State<QuizWidget> {
           ),
           ...widget.question.answers.mapIndexed(
             (i, e) => AnwserWidget(
+              disabled: indexSelected != -1,
               title: e.title,
               isSelected: indexSelected == i,
               isRight: e.isRight,

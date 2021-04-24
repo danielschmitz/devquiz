@@ -7,10 +7,12 @@ class AnwserWidget extends StatelessWidget {
   final bool isRight;
   final bool isSelected;
   final VoidCallback onTap;
+  final bool disabled;
   const AnwserWidget(
       {Key? key,
       required this.title,
       this.isRight = false,
+      this.disabled = false,
       required this.onTap,
       this.isSelected = false})
       : super(key: key);
@@ -36,47 +38,50 @@ class AnwserWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 10),
-      child: GestureDetector(
-        onTap: onTap,
-        child: Container(
-          decoration: BoxDecoration(
-              color: isSelected ? _selectedBorderCardRight : AppColors.white,
-              borderRadius: BorderRadius.circular(10),
-              border: Border.fromBorderSide(BorderSide(
-                  color: isSelected
-                      ? _selectedBorderCardRight
-                      : AppColors.border))),
-          child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 25),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Expanded(
-                    child: Text(this.title,
-                        style: isSelected
-                            ? _selectedTextStyleRight
-                            : AppTextStyles.body)),
-                Container(
-                  decoration: BoxDecoration(
-                      color: isSelected
-                          ? _selectedColorRight
-                          : AppColors.lightGreen,
-                      borderRadius: BorderRadius.circular(20),
-                      border: Border.fromBorderSide(BorderSide(
-                          color: isSelected
-                              ? _selectedBorderRight
-                              : AppColors.border))),
-                  width: 30,
-                  height: 30,
-                  child: isSelected
-                      ? Icon(
-                          Icons.check,
-                          size: 16,
-                          color: Colors.white,
-                        )
-                      : null,
-                )
-              ],
+      child: IgnorePointer(
+        ignoring: disabled,
+        child: GestureDetector(
+          onTap: onTap,
+          child: Container(
+            decoration: BoxDecoration(
+                color: isSelected ? _selectedBorderCardRight : AppColors.white,
+                borderRadius: BorderRadius.circular(10),
+                border: Border.fromBorderSide(BorderSide(
+                    color: isSelected
+                        ? _selectedBorderCardRight
+                        : AppColors.border))),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 25),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Expanded(
+                      child: Text(this.title,
+                          style: isSelected
+                              ? _selectedTextStyleRight
+                              : AppTextStyles.body)),
+                  Container(
+                    decoration: BoxDecoration(
+                        color: isSelected
+                            ? _selectedColorRight
+                            : AppColors.lightGreen,
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.fromBorderSide(BorderSide(
+                            color: isSelected
+                                ? _selectedBorderRight
+                                : AppColors.border))),
+                    width: 30,
+                    height: 30,
+                    child: isSelected
+                        ? Icon(
+                            Icons.check,
+                            size: 16,
+                            color: Colors.white,
+                          )
+                        : null,
+                  )
+                ],
+              ),
             ),
           ),
         ),

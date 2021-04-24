@@ -52,7 +52,9 @@ Versões para baixar o zip:
 - v0.0.11 [Aula 4 até botão pular](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.11) - continuar de 01:07:20 da aula 4
 - v0.0.12 [Finalização da aula 4](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.12)
 
-- v0.0.13 [ResultPage completo da aula 4](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.13) - Continue na aula 4 a partir de 55:43 
+- v0.0.13 [ResultPage completo da aula 4](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.13) - Continue na aula 5 a partir de 55:43 
+
+- v0.0.14 [Finalização da aula 5](https://github.com/danielschmitz/devquiz/releases/tag/v0.0.13)
 
 ## ✅ Dica
 

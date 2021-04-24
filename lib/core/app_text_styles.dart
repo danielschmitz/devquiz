@@ -68,6 +68,12 @@ class AppTextStyles {
     fontSize: 20,
     fontWeight: FontWeight.normal,
   );
+
+  static final TextStyle body20bold = GoogleFonts.notoSans(
+    color: AppColors.grey,
+    fontSize: 20,
+    fontWeight: FontWeight.bold,
+  );
   static final TextStyle bodyLightGrey20 = GoogleFonts.notoSans(
     color: AppColors.lightGrey,
     fontSize: 20,

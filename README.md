@@ -93,24 +93,21 @@ Enjoy!
 
 <details><summary>Download</summary>
 
-- Aula Bônus (para iniciantes no flutter): [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf)
+<p align="center">
 
-- Aula 1: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL)
+<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf">Aula Bonus</a>
 
-- Aula 2: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ) 
+<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL">Aula 1</a>
 
-- Aula 3: [ondedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q) 
+<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ">Aula 2</a>
 
-- Aula 4: [onedrive](https://1drv.ms/u/s!Apb0CbMZvL3sgfgwT-qzRHIVyNeKcw?e=Vvbsmy)
+<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q">Aula 3</a>
 
-- Aula 5: [onedrive](https://1drv.ms/v/s!Apb0CbMZvL3sgfgxtiSdBOQkLEEzzA?e=zULeaf)
+<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgwT-qzRHIVyNeKcw?e=Vvbsmy">Aula 4</a>
 
-## No youtube:
+<a href="https://1drv.ms/v/s!Apb0CbMZvL3sgfgxtiSdBOQkLEEzzA?e=zULeaf">Aula 5</a>
 
-- Aula Bonus - https://youtu.be/_OeByq1RXu0
-- Aula 1 - https://youtu.be/GSYaYunF0ws
-- Aula 2 - https://youtu.be/3ImqUVDUBdE
-- Aula 3 - https://youtu.be/pbZ5TrDSnt8
-- Aula 4 - https://youtu.be/Sqoje4UNP3M
+
+</p>
 
 </details>

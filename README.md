@@ -1,6 +1,20 @@
-# devquiz
 
-Projeto devquiz do NLW5 sobre Flutter
+<p align="center">
+  <a href="https://github.com/danielschmitz/devquiz">
+    <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F07591928-caf4-4b3e-9cd6-5c01e026c5b9%2Fnlw5.png?table=block&id=a43961e5-cdfd-4712-8c97-dfc57d217c9f&width=3840&userId=19fd7eec-16c2-4213-86cc-e2e1b925cce4&cache=v2"/>
+  </a>
+</p>
+
+<p align="center">Projeto devquiz do NLW5 sobre Flutter
+ 🚀</p>
+
+ <p align="center">
+ <img src="https://img.shields.io/github/issues/danielschmitz/devquiz"/>
+ <img src="https://img.shields.io/github/forks/danielschmitz/devquiz"/>
+ <img src="https://img.shields.io/github/stars/danielschmitz/devquiz"/>
+ <img src="https://img.shields.io/github/license/danielschmitz/devquiz"/>
+ </p>
+
 
 # Links
 

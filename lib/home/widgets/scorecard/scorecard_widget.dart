@@ -4,25 +4,33 @@ import 'package:devquiz/home/widgets/chart/chart_widget.dart';
 import 'package:flutter/material.dart';
 
 class ScoreCardWidget extends StatelessWidget {
-  const ScoreCardWidget({Key? key}) : super(key: key);
+  final double percentage;
+  const ScoreCardWidget({
+    Key? key,
+    required this.percentage,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(left: 20, right: 20),
+      padding: const EdgeInsets.only(left: 20, right: 20, top: 20),
       child: Container(
-        height: 136,
+        height: 126,
         decoration: BoxDecoration(
-            color: AppColors.white, 
-            borderRadius: BorderRadius.circular(10),
-            border: Border.all(color: AppColors.border, width: 1)
-            ),
+          color: AppColors.white,
+          borderRadius: BorderRadius.circular(10),
+        ),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 24),
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Expanded(flex: 1, child: ChartWidget()),
+              Expanded(
+                flex: 1,
+                child: ChartWidget(
+                  percentage: percentage,
+                ),
+              ),
               Expanded(
                 flex: 3,
                 child: Padding(
@@ -32,11 +40,13 @@ class ScoreCardWidget extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "Vamos começar!",
+                        "Let's start!",
                         style: AppTextStyles.heading,
                       ),
-                      Text("Complete os desafios e avance em conhecimento",
-                          style: AppTextStyles.body)
+                      Text(
+                        "Complete the challenges and improve your knowledge!",
+                        style: AppTextStyles.body,
+                      )
                     ],
                   ),
                 ),

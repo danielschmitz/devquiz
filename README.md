@@ -90,32 +90,3 @@ code .
 Após abrir o Visual Studio Code, aperte F5 para compilar e executar o projeto.
 
 Enjoy!
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-
-## 🏴‍☠️ Vídeos
-
-
-<details><summary>Download</summary>
-
-<p align="center">
-
-<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgvYeYmqcaCx_ObiQ?e=vWgcvf">Aula Bonus</a>
-
-<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgsOMcU1n4S3U7V5g?e=8kKGHL">Aula 1</a>
-
-<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgtRSfCqSMjfvfE6A?e=WSZfZJ">Aula 2</a>
-
-<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfguYyHp7Dj0lgiSKg?e=00Ah2Q">Aula 3</a>
-
-<a href="https://1drv.ms/u/s!Apb0CbMZvL3sgfgwT-qzRHIVyNeKcw?e=Vvbsmy">Aula 4</a>
-
-<a href="https://1drv.ms/v/s!Apb0CbMZvL3sgfgxtiSdBOQkLEEzzA?e=zULeaf">Aula 5</a>
-
-
-</p>
-
-</details>

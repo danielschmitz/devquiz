@@ -70,6 +70,25 @@ Para isso, vá até os settings do vscode e marque a opção `previewFlutterUiGu
 
 ![image](https://user-images.githubusercontent.com/1509692/115384248-35dca980-a1ad-11eb-9384-d2cc1d445ff1.png)
 
+Em conjunto, altere as cores das linhas de identação:
+
+Tema Dark+ padrão do vscode:
+```json
+"workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#1e1e1e",
+        "editorIndentGuide.background": "#1e1e1e",
+     },
+```
+
+Tema Dracula Soft:
+```
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#282a36",
+        "editorIndentGuide.background": "#282a36",
+     },
+```
+
+
 ## ✅  Instalação
 
 Necessário:
